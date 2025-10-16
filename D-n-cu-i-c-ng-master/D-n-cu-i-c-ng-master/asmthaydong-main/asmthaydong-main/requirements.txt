@@ -1,0 +1,12 @@
+selenium>=4.23.0
+webdriver-manager>=4.0.2
+undetected-chromedriver>=3.5.5
+requests>=2.32.3
+urllib3>=2.2.2
+fake-useragent>=1.5.1
+python-dateutil>=2.9.0
+rich>=13.8.0
+sqlite-utils>=3.36
+
+
+

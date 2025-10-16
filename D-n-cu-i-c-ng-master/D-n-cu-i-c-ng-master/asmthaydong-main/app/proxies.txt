@@ -1,0 +1,6 @@
+# Put one proxy per line, example formats:
+# http://user:pass@host:port
+# socks5://user:pass@host:port
+
+
+
